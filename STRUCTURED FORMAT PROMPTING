@@ -46,3 +46,4 @@ print("\n--- NORMAL PROMPT ---")
 print(normal_prompt)
 print("\n--- STRUCTURED FORMAT PROMPT ---")
 print(structured_prompt)
+ 
